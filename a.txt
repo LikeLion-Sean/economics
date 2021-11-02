@@ -1,0 +1,19 @@
+currntFolder_name % 
+cd "Folder name" -> change directory
+cd .. -> Move to upper level directory
+
+git = Version management system
+github = Version management system + Storage
+
+Unix
+Linux
+
+Git
+git config --global user.name "Sean"
+git config --global user.email sean.kim84@likelion.net
+
+Authorize on web (github.com)
+
+git init
+git remote add origin https://github.com/LikeLion-Sean/economics.git
+git add <Filename>
