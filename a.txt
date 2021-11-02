@@ -17,3 +17,7 @@ Authorize on web (github.com)
 git init
 git remote add origin https://github.com/LikeLion-Sean/economics.git
 git add <Filename>
+git commit -m "Register the commit"
+git push origin master
+
+Xin Chao
